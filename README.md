@@ -8,7 +8,7 @@ This project is a machine learning-based system that predicts whether an email i
 
 - **`app.py`**: Streamlit application code for real-time spam email classification.
 - **`spam_mail_prediction.ipynb`**: Jupyter notebook for data preprocessing, model training, and evaluation.
-- **`models/`**: Stores trained models (`.pkl` files) for Logistic Regression, Naive Bayes, and Random6 Forest.
+- **`models/`**: Stores trained models (`.pkl` files) for Logistic Regression, Naive Bayes, and Random Forest.
 - **`data/`**: Contains the dataset `mail_data.csv`.
 - **`output/`**: Contains visual outputs like `spam.png` and `not spam.png`.
 - **`requirements.txt`**: Lists required Python packages.
